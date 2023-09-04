@@ -22,6 +22,20 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Create an .env file:
+
+```bash
+DATABASE_URL=
+AT_SECRET=
+RT_SECRET=
+OPENAI_API_KEY=
+REPLICATE_API_KEY=
+MAX_FREE_COUNTS=
+STRIPE_KEY=
+STRIPE_WEEBHOOK_SECRET=
+FRONT_END_URL=
+```
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
